@@ -1,0 +1,11 @@
+⭐ CHK KIDSHARK — BIN Lookup
+
+Consulta al instante el banco emisor, esquema, tipo de tarjeta y país de cualquier BIN.
+
+♦️ Uso rápido: /bin 457173
+También puedes enviar directamente los 6 dígitos.
+
+🌐 Datos obtenidos:
+Red • Banco • Nivel (Débito/Crédito) • País y Moneda
+
+Dev: @Sharkkx1

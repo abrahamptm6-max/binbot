@@ -1,0 +1,11 @@
+<tg-emoji emoji-id="5330184289852091742">⭐</tg-emoji> <b>CHK KIDSHARK — BIN Lookup</b>
+
+Consulta al instante el banco emisor, esquema, tipo de tarjeta y país de cualquier BIN.
+
+<tg-emoji emoji-id="5332659934771310548">♦️</tg-emoji> <b>Uso rápido:</b> <code>/bin 457173</code>
+También puedes enviar directamente los 6 dígitos.
+
+<tg-emoji emoji-id="5330250874730082574">🌐</tg-emoji> <b>Datos obtenidos:</b>
+Red • Banco • Nivel (Débito/Crédito) • País y Moneda
+
+Dev: @Sharkkx1

@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: binbot
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python bin_bot.py
+    healthCheckPath: /
+    # BOT_TOKEN se configura en el panel de Render como variable de entorno.
+    envVars:
+      - key: PYTHONIOENCODING
+        value: utf-8
